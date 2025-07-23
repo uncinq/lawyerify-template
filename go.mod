@@ -21,7 +21,9 @@ require (
 	github.com/hugolify/hugolify-theme-posts-expertises v1.0.4 // indirect
 	github.com/hugolify/hugolify-theme-posts-tags v1.1.1 // indirect
 	github.com/hugolify/hugolify-theme-publications v1.2.8 // indirect
+	github.com/hugolify/hugolify-theme-publications-categories v1.0.6 // indirect
 	github.com/hugolify/hugolify-theme-publications-expertises v1.0.4 // indirect
+	github.com/hugolify/hugolify-theme-publications-persons v1.1.5 // indirect
 	github.com/hugolify/lawyerify-example-site-associates v1.0.0 // indirect
 	github.com/hugolify/lawyerify-theme v1.4.4 // indirect
 	github.com/midzer/tobii v2.8.4+incompatible // indirect
