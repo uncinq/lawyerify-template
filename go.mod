@@ -8,7 +8,7 @@ require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hugolify/hugolify-theme v1.16.6 // indirect
-	github.com/hugolify/hugolify-theme-2 v1.0.7 // indirect
+	github.com/hugolify/hugolify-theme-1 v1.0.11 // indirect
 	github.com/hugolify/hugolify-theme-expertises v1.0.18 // indirect
 	github.com/hugolify/hugolify-theme-persons v1.3.13 // indirect
 	github.com/hugolify/hugolify-theme-persons-expertises v1.0.3 // indirect
