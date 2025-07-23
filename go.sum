@@ -6,8 +6,8 @@ github.com/hugolify/hugolify-decap-cms v1.15.1 h1:QFSczFiQHSunQ/g3+dHZMDivXS2Hh8
 github.com/hugolify/hugolify-decap-cms v1.15.1/go.mod h1:lxqV0lEahrLATtKBgUbj/c9fQE1XGpaJSIaLk9D/hRA=
 github.com/hugolify/hugolify-theme v1.18.7 h1:rFXpJirRDxhI7Zrix2g5SiTg1tm6UkQFp4dMaT2Baqk=
 github.com/hugolify/hugolify-theme v1.18.7/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
-github.com/hugolify/hugolify-theme-2 v1.0.7 h1:HvWYQUTtp8eX3xnvKi8Y6kMk7FECA4thZJBBOZJ5OpU=
-github.com/hugolify/hugolify-theme-2 v1.0.7/go.mod h1:OzXucncKFrQnf1OAOiXTPTqVcGLTj/6WmVC+0doEv6E=
+github.com/hugolify/hugolify-theme-1 v1.0.11 h1:UIm+SgeJM5kwrduSl7T3xdIMwpnCAl+1VoAcKVei6P8=
+github.com/hugolify/hugolify-theme-1 v1.0.11/go.mod h1:rrHSvNc1IpQs72dwDkvX+USox2gaXfkd29pZK8pZ2Pg=
 github.com/hugolify/hugolify-theme-expertises v1.0.20 h1:o2dVF7FxwsRFPN846prrYZEaKSu4MNvok5KgjAG/TdE=
 github.com/hugolify/hugolify-theme-expertises v1.0.20/go.mod h1:PRae8nvjLI70qjJEVsLf01ufzmdF1cFJ7yrkEuNh0FY=
 github.com/hugolify/hugolify-theme-persons v1.3.15 h1:v/mnTINlJRkf1HMnkxGTgfdAO7jxJH48Tj8RXbiFY0E=
