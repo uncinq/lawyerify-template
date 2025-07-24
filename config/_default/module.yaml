@@ -1,8 +1,7 @@
 imports:
 - path: github.com/hugolify/lawyerify-example-site-independent
-- path: github.com/hugolify/hugolify-theme-1
+- path: github.com/hugolify/hugolify-theme-5
 - path: github.com/hugolify/lawyerify-theme
-- path: github.com/hugolify/lawyerify-decap-cms
 - path: github.com/hugolify/hugolify-theme-expertises
 - path: github.com/hugolify/hugolify-theme-posts-authors
 - path: github.com/hugolify/hugolify-theme-posts-categories
@@ -11,5 +10,4 @@ imports:
 - path: github.com/hugolify/hugolify-theme-posts
 - path: github.com/hugolify/hugolify-theme-persons
 - path: github.com/hugolify/hugolify-theme
-- path: github.com/hugolify/hugolify-decap-cms
 

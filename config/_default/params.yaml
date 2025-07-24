@@ -1,1 +1,5 @@
 _merge: deep
+
+expertises:
+  thumbnail:
+    desktop: '636x954'
