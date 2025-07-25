@@ -1,9 +1,12 @@
 imports:
+  # Specific Theme
   - path: github.com/hugolify/lawyerify-example-site
-
   - path: github.com/hugolify/hugolify-theme-4
+
+  # Specific Lawerify
   - path: github.com/hugolify/lawyerify-theme
 
+  # Content
   - path: github.com/hugolify/hugolify-theme-places
   - path: github.com/hugolify/hugolify-theme-expertises
   - path: github.com/hugolify/hugolify-theme-posts-authors
@@ -23,4 +26,5 @@ imports:
   - path: github.com/hugolify/hugolify-theme-realestates-persons
   - path: github.com/hugolify/hugolify-theme-realestates
 
+  # Core theme
   - path: github.com/hugolify/hugolify-theme

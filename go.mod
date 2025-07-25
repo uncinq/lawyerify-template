@@ -6,7 +6,7 @@ require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hugolify/hugolify-theme v1.18.7 // indirect
-	github.com/hugolify/hugolify-theme-4 v0.0.0-20241027180953-86cf6bb816de // indirect
+	github.com/hugolify/hugolify-theme-4 v0.0.0-20250725093340-3ff0ac91629d // indirect
 	github.com/hugolify/hugolify-theme-expertises v1.0.20 // indirect
 	github.com/hugolify/hugolify-theme-persons v1.3.15 // indirect
 	github.com/hugolify/hugolify-theme-persons-expertises v1.0.3 // indirect
@@ -25,7 +25,7 @@ require (
 	github.com/hugolify/hugolify-theme-realestates v1.1.5 // indirect
 	github.com/hugolify/hugolify-theme-realestates-categories v1.1.2 // indirect
 	github.com/hugolify/hugolify-theme-realestates-persons v1.0.6 // indirect
-	github.com/hugolify/lawyerify-example-site v1.2.1 // indirect
+	github.com/hugolify/lawyerify-example-site v1.2.2 // indirect
 	github.com/hugolify/lawyerify-theme v1.4.0 // indirect
 	github.com/midzer/tobii v2.5.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
