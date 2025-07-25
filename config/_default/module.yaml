@@ -3,11 +3,10 @@
 imports:
   # Specific Theme
   - path: github.com/hugolify/lawyerify-example-site-international
-  - path: github.com/hugolify/hugolify-theme-4
+  - path: github.com/hugolify/hugolify-theme-5
 
   # Specific Lawerify
   - path: github.com/hugolify/lawyerify-theme
-  - path: github.com/hugolify/lawyerify-decap-cms
 
   # Content
   # -> Hugolify content types and taxonomies available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
@@ -28,6 +27,3 @@ imports:
 
   # Core theme
   - path: github.com/hugolify/hugolify-theme
-
-  # CMS
-  - path: github.com/hugolify/hugolify-decap-cms
