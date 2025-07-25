@@ -1,12 +1,11 @@
-_merge: deep
 fr:
-  _merge: deep
+  languageCode: fr
   languageName: Français
   title: Cabinet d'avocats international
   weight: 1
 
 en:
-  _merge: deep
+  languageCode: en
   languageName: English
   title: International law firm
   weight: 2

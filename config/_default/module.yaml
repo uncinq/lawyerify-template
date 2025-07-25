@@ -3,7 +3,7 @@
 imports:
   # Specific Theme
   - path: github.com/hugolify/lawyerify-example-site-associates
-  - path: github.com/hugolify/hugolify-theme-4
+  - path: github.com/hugolify/hugolify-theme-5
 
   # Specific Lawerify
   - path: github.com/hugolify/lawyerify-theme
