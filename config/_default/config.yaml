@@ -1,6 +1,5 @@
 ## LANGUAGE
 defaultContentLanguage: fr
-languageCode: fr
 
 ## ADVANCED
 build:
@@ -11,7 +10,7 @@ imaging:
 markup:
   tableOfContents:
     ordered: true
-paginate: 18
+pagination:
+  pagerSize: 18
 removePathAccents: true
-disableHugoGeneratorInject: true
 timeout: 100000
