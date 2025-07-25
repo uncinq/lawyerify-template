@@ -1,15 +1,17 @@
 _merge: deep
-places: /cabinets/:slug/
-persons: /equipe/:slug/
-persons_expertises: /equipe/expertises/:slug/
-persons_places: /equipe/cabinets/:slug/
-persons_statutes: /equipe/statuts/:slug/
-posts: /actualites/:year-:month-:day-:slug/
-posts_expertises: /actualites/expertises/:slug/
-authors: /actualites/auteurs/:slug/
-categories: /actualites/categories/:slug/
-tags: /actualites/tags/:slug/
-publications: /parutions/:slug/
-publications_categories: /parutions/categories/:slug/
-publications_expertises: /parutions/expertises/:slug/
-publications_persons: /parutions/personnes-concernees/:slug/
+page:
+  persons: /equipe/:slug/
+  places: /cabinets/:slug/
+  posts: /actualites/:year-:month-:day-:slug/
+  publications: /parutions/:slug/
+term:
+  authors: /actualites/auteurs/:slug/
+  categories: /actualites/categories/:slug/
+  persons_expertises: /equipe/expertises/:slug/
+  persons_places: /equipe/cabinets/:slug/
+  persons_statutes: /equipe/statuts/:slug/
+  posts_expertises: /actualites/expertises/:slug/
+  publications_categories: /parutions/categories/:slug/
+  publications_expertises: /parutions/expertises/:slug/
+  publications_persons: /parutions/personnes-concernees/:slug/
+  tags: /actualites/tags/:slug/
