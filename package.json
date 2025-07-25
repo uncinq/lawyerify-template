@@ -27,7 +27,7 @@
     "update": "hugo mod get -u",
     "tidy": "hugo mod tidy",
     "clean": "hugo mod clean",
-    "cleanall": "hugo mod clean --all",
+    "clean:all": "hugo mod clean --all",
     "cms": "npx netlify-cms-proxy-server"
   }
 }
