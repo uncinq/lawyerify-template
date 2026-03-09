@@ -1,14 +1,15 @@
-module github.com/hugolify/lawyerify-template
+module github.com/uncinq/lawyerify-template
 
 go 1.21
 
 require (
-	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
-	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
-	github.com/hugolify/hugolify-admin v0.0.0-20241211133821-6d54ff4c588e // indirect
-	github.com/hugolify/hugolify-theme v1.18.20 // indirect
-	github.com/hugolify/lawyerify-theme v1.4.1 // indirect
-	github.com/midzer/tobii v2.6.6+incompatible // indirect
-	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
-	github.com/twbs/icons v1.11.3 // indirect
+	github.com/Splidejs/splide v4.1.3+incompatible // indirect
+	github.com/dixonandmoe/rellax v0.0.0-20240824005335-9ed6cb0aae03 // indirect
+	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800 // indirect
+	github.com/hugolify/hugolify-admin v0.9.1 // indirect
+	github.com/hugolify/hugolify-theme v1.27.8 // indirect
+	github.com/midzer/tobii v3.1.3+incompatible // indirect
+	github.com/orestbida/cookieconsent v3.1.0+incompatible // indirect
+	github.com/twbs/icons v1.13.1 // indirect
+	github.com/uncinq/lawyerify-theme v1.5.0 // indirect
 )

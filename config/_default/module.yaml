@@ -1,11 +1,9 @@
-# Hugolify content available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
-
 imports:
   # Specific Lawerify
-  - path: github.com/hugolify/lawyerify-theme
+  - path: github.com/uncinq/lawyerify-theme
 
   # Content
-  # -> Hugolify content types and taxonomies available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
+  # -> Hugolify content types and taxonomies available https://www.hugolify.io/docs/sections/
 
   # Core theme
   - path: github.com/hugolify/hugolify-theme
