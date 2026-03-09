@@ -1,9 +1,7 @@
-# Hugolify content available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
-
 imports:
   # Specific Lawerify
-  - path: github.com/hugolify/lawyerify-example-site
-  - path: github.com/hugolify/lawyerify-theme
+  - path: github.com/uncinq/lawyerify-example-site
+  - path: github.com/uncinq/lawyerify-theme
 
   # For exampleSite
   - path: github.com/hugolify/hugolify-theme-places
@@ -28,3 +26,6 @@ imports:
 
   # Core theme
   - path: github.com/hugolify/hugolify-theme
+
+  # Admin
+  - path: github.com/hugolify/hugolify-admin

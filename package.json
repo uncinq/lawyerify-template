@@ -1,32 +1,40 @@
 {
-    "name": "lawyerify-template",
-    "version": "1.8.0",
-    "homepage": "https://www.lawyerify.io",
-    "repository": "https://github.com/hugolify/lawyerify-template",
-    "bugs": {
-        "url": "https://github.com/hugolify/lawyerify-template/issues"
-    },
-    "author": {
-        "name": "Lawyerify",
-        "url": "https://www.lawyerify.io/"
-    },
-    "license": "MIT",
-    "devDependencies": {
-        "@fullhuman/postcss-purgecss": "^5.0.0",
-        "autoprefixer": "^10.4.13",
-        "cssnano": "^5.1.14",
-        "netlify-plugin-hugo-cache-resources": "^0.2.1",
-        "postcss": "^8.4.21",
-        "postcss-cli": "^10.1.0",
-        "postcss-sass": "^0.5.0"
-    },
-    "scripts": {
-        "watch": "hugo server",
-        "build": "hugo --gc --minify",
-        "update": "hugo mod get -u",
-        "tidy": "hugo mod tidy",
-        "clean": "hugo mod clean",
-        "cleanall": "hugo mod clean --all",
-        "cms": "npx netlify-cms-proxy-server"
-    }
+  "name": "lawyerify-template",
+  "version": "1.9.0",
+  "homepage": "https://www.lawyerify.io",
+  "repository": "https://github.com/uncinq/lawyerify-template",
+  "bugs": {
+    "url": "https://github.com/uncinq/lawyerify-template/issues"
+  },
+  "author": {
+    "name": "Lawyerify",
+    "url": "https://www.lawyerify.io/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "@hugolify/prettier-config": "^0.3.1",
+    "autoprefixer": "^10.4.13",
+    "cssnano": "^5.1.14",
+    "netlify-plugin-hugo-cache-resources": "^0.2.1",
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0",
+    "postcss-sass": "^0.5.0"
+  },
+  "scripts": {
+    "watch": "hugo server",
+    "build": "hugo --noChmod --gc --minify",
+    "build:config:pagescms": "node scripts/build-config-pagescms.js",
+    "build:icons": "yarn build:icons:bootstrap && yarn build",
+    "build:icons:bootstrap": "node scripts/build-icons-bootstrap.js",
+    "build:search": "yarn build && npm_config_yes=true npx pagefind --site 'public'",
+    "clean": "hugo mod clean",
+    "clean:all": "hugo mod clean --all",
+    "tidy": "hugo mod tidy",
+    "update": "hugo mod get -u",
+    "update:all": "yarn update && yarn tidy && yarn upgrade",
+    "cms": "yarn cms:decapcms",
+    "cms:decapcms": "npx decap-server",
+    "cms:netlifycms": "npx netlify-cms-proxy-server"
+  }
 }

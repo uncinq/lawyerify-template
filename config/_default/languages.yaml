@@ -1,9 +1,5 @@
 fr:
+  languageCode: fr
   languageName: Français
   title: Demo Lawyerify
   weight: 1
-
-# en:
-#   languageName: English
-#   title: Hugolify demo
-#   weight: 2

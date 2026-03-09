@@ -1,1 +1,5 @@
 _merge: deep
+
+# Admin
+admin:
+  cms: decapcms
