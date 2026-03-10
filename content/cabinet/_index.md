@@ -11,7 +11,7 @@ hero:
 image:
   credit: Photo de [Christina @wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     sur [Unsplash](https://unsplash.com/)
-  src: /images/uploads/christina-wocintechchat-com-s3grmiuhpnu-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773070949/christina-wocintechchat-com-s3grmiuhpnu-unsplash_vatk8z.jpg
 blocks:
   - type: editorial
     direction: rtl
@@ -25,7 +25,7 @@ blocks:
     image:
       credit: Photo de [Christina @wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
         sur [Unsplash](https://unsplash.com/)
-      src: /images/uploads/christina-wocintechchat-com-s3grmiuhpnu-unsplash.jpg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1773070949/christina-wocintechchat-com-s3grmiuhpnu-unsplash_vatk8z.jpg
   - type: editorial
     direction: ltr
     title: Le cabinet
@@ -36,7 +36,7 @@ blocks:
 
       Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt.
     image:
-      src: /images/uploads/ruben-hanssen-2-gLI_4SRl4-unsplash.jpg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1773130246/ruben-hanssen-2-gLI_4SRl4-unsplash_lylsvf.jpg
       credit: Photo de <a href="https://unsplash.com/fr/@rhfhanssen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ruben Hanssen</a> sur <a href="https://unsplash.com/fr/photos/un-grand-immeuble-avec-une-porte-rouge-2-gLI_4SRl4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   - type: cta
     background: true

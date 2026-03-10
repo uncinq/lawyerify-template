@@ -25,7 +25,7 @@ blocks:
 
       Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt.
     image:
-      src: /images/uploads/ruben-hanssen-2-gLI_4SRl4-unsplash.jpg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1773130246/ruben-hanssen-2-gLI_4SRl4-unsplash_lylsvf.jpg
       credit: Photo de <a href="https://unsplash.com/fr/@rhfhanssen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ruben Hanssen</a> sur <a href="https://unsplash.com/fr/photos/un-grand-immeuble-avec-une-porte-rouge-2-gLI_4SRl4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   - type: selected-expertises
     section: expertises

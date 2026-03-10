@@ -1,9 +1,10 @@
-## LANGUAGE
 defaultContentLanguage: fr
-
-## ADVANCED
 build:
-  writeStats: true
+  buildStats:
+    disableClasses: false
+    disableIDs: true
+    disableTags: false
+    enable: true
 enableRobotsTXT: true
 imaging:
   quality: 75
@@ -13,5 +14,3 @@ markup:
 pagination:
   pagerSize: 18
 removePathAccents: true
-disableHugoGeneratorInject: true
-timeout: 100000
