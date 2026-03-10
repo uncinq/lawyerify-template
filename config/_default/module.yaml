@@ -1,15 +1,26 @@
 imports:
-- path: github.com/hugolify/lawyerify-example-site-independent
-- path: github.com/hugolify/hugolify-theme-3
-- path: github.com/hugolify/lawyerify-theme
-- path: github.com/hugolify/lawyerify-decap-cms
-- path: github.com/hugolify/hugolify-theme-expertises
-- path: github.com/hugolify/hugolify-theme-posts-authors
-- path: github.com/hugolify/hugolify-theme-posts-categories
-- path: github.com/hugolify/hugolify-theme-posts-expertises
-- path: github.com/hugolify/hugolify-theme-posts-tags
-- path: github.com/hugolify/hugolify-theme-posts
-- path: github.com/hugolify/hugolify-theme-persons
-- path: github.com/hugolify/hugolify-theme
-- path: github.com/hugolify/hugolify-decap-cms
 
+  # Content example
+  - path: github.com/uncinq/lawyerify-example-site-independent
+  
+  # Theme
+  - path: github.com/hugolify/hugolify-theme-3
+
+  # Specific Lawerify
+  - path: github.com/uncinq/lawyerify-theme
+
+  # Content
+  - path: github.com/hugolify/hugolify-theme-expertises
+  - path: github.com/hugolify/hugolify-theme-posts-authors
+  - path: github.com/hugolify/hugolify-theme-posts-categories
+  - path: github.com/hugolify/hugolify-theme-posts-expertises
+  - path: github.com/hugolify/hugolify-theme-posts-tags
+  - path: github.com/hugolify/hugolify-theme-posts
+  - path: github.com/hugolify/hugolify-theme-persons
+  - path: github.com/hugolify/hugolify-theme
+
+  # Core theme
+  - path: github.com/hugolify/hugolify-theme
+
+  # CMS
+  - path: github.com/hugolify/hugolify-admin

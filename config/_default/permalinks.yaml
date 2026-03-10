@@ -1,1 +1,39 @@
 _merge: deep
+page:
+  persons: /equipe/:slug/
+  places: /cabinets/:slug/
+  posts: /actualites/:year/:year-:month-:day-:slug/
+  publications: /parutions/:slug/
+  realestates: /ventes-immobilieres/:slug/
+section:
+  persons: /equipe/
+  places: /cabinets/
+  posts: /actualites/
+  publications: /parutions/
+  realestates: /ventes-immobilieres/
+taxonomy:
+  authors: /actualites/auteurs/
+  categories: /actualites/categories/
+  persons_expertises: /equipe/expertises/
+  persons_places: /equipe/cabinets/
+  persons_statutes: /equipe/statuts/
+  posts_expertises: /actualites/expertises/
+  tags: /actualites/tags/
+  publications_categories: /parutions/categories/
+  publications_expertises: /parutions/expertises/
+  publications_persons: /parutions/personnes-concernees/
+  realestates_persons: /ventes-immobilieres/personnes/
+  realestates_categories: /ventes-immobilieres/types/
+term:
+  authors: /actualites/auteurs/:slug/
+  categories: /actualites/categories/:slug/
+  persons_expertises: /equipe/expertises/:slug/
+  persons_places: /equipe/cabinets/:slug/
+  persons_statutes: /equipe/statuts/:slug/
+  posts_expertises: /actualites/expertises/:slug/
+  tags: /actualites/tags/:slug/
+  publications_categories: /parutions/categories/:slug/
+  publications_expertises: /parutions/expertises/:slug/
+  publications_persons: /parutions/personnes-concernees/:slug/
+  realestates_persons: /ventes-immobilieres/personnes/:slug/
+  realestates_categories: /ventes-immobilieres/types/:slug/
