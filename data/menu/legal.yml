@@ -1,0 +1,16 @@
+fr:
+  links:
+    - title: Mentions légales
+      url: /mentions-legales/
+    - title: Politique de confidentialité
+      url: /politique-de-confidentialite/
+    - title: Plan du site
+      url: /plan-du-site/
+en:
+  links:
+    - title: Legal mentions
+      url: /en/legal-mentions/
+    - title: Privacy Policy
+      url: /en/privacy-policy/
+    - title: Sitemap
+      url: /en/sitemap/

@@ -1,1 +1,6 @@
 _merge: deep
+
+admin:
+  i18n:
+    default_locale: fr
+    locales: "[fr,en]" 

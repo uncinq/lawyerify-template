@@ -1,0 +1,27 @@
+fr:
+  title: Navigation
+  links:
+    - title: À propos
+      url: /a-propos/
+    - title: Expertises
+      url: /expertises/
+    - title: Équipe
+      url: /equipe/
+    - title: Actualités
+      url: /actualites/
+    - title: Contact
+      url: /contact/
+
+en:
+  title: Navigation
+  links:
+    - title: About
+      url: /en/about/
+    - title: Expertises
+      url: /en/expertises/
+    - title: Team
+      url: /en/team/
+    - title: News
+      url: /en/news/
+    - title: Contact
+      url: /en/contact/

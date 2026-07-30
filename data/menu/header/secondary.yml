@@ -1,0 +1,9 @@
+fr:
+  links:
+    - title: Contact
+      url: /contact/
+
+en:
+  links:
+    - title: Contact
+      url: /en/contact/
