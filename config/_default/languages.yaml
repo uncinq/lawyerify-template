@@ -1,5 +1,91 @@
 fr:
   languageCode: fr
   languageName: Français
-  title: Demo Lawyerify
+  title: Lawyerify
   weight: 1
+  permalinks:
+    page:
+      persons: /equipe/:slug/
+      places: /cabinets/:slug/
+      posts: /actualites/:year/:year-:month-:day-:slug/
+      publications: /parutions/:slug/
+      realestates: /ventes-immobilieres/:slug/
+    section:
+      persons: /equipe/
+      places: /cabinets/
+      posts: /actualites/
+      publications: /parutions/
+      realestates: /ventes-immobilieres/
+    taxonomy:
+      authors: /actualites/auteurs/
+      categories: /actualites/categories/
+      persons_expertises: /equipe/expertises/
+      persons_places: /equipe/cabinets/
+      persons_statutes: /equipe/statuts/
+      posts_expertises: /actualites/expertises/
+      tags: /actualites/tags/
+      publications_categories: /parutions/categories/
+      publications_expertises: /parutions/expertises/
+      publications_persons: /parutions/personnes-concernees/
+      realestates_persons: /ventes-immobilieres/personnes/
+      realestates_categories: /ventes-immobilieres/types/
+    term:
+      authors: /actualites/auteurs/:slug/
+      categories: /actualites/categories/:slug/
+      persons_expertises: /equipe/expertises/:slug/
+      persons_places: /equipe/cabinets/:slug/
+      persons_statutes: /equipe/statuts/:slug/
+      posts_expertises: /actualites/expertises/:slug/
+      tags: /actualites/tags/:slug/
+      publications_categories: /parutions/categories/:slug/
+      publications_expertises: /parutions/expertises/:slug/
+      publications_persons: /parutions/personnes-concernees/:slug/
+      realestates_persons: /ventes-immobilieres/personnes/:slug/
+      realestates_categories: /ventes-immobilieres/types/:slug/
+    
+
+en:
+  languageCode: en
+  languageName: English
+  title: Lawyerify
+  weight: 2
+  permalinks:
+    page:
+      persons: /team/:slug/
+      places: /offices/:slug/
+      posts: /news/:year/:year-:month-:day-:slug/
+      publications: /publications/:slug/
+      realestates: /realestates/:slug/
+    section:
+      persons: /team/
+      places: /offices/
+      posts: /news/
+      publications: /publications/
+      realestates: /realestates/
+    taxonomy:
+      authors: /news/authors/
+      categories: /news/categories/
+      persons_expertises: /team/expertises/
+      persons_places: /team/offices/
+      persons_statutes: /team/statutes/
+      posts_expertises: /news/expertises/
+      tags: /news/tags/
+      publications_categories: /publications/categories/
+      publications_expertises: /publications/expertises/
+      publications_persons: /publications/persons/
+      realestates_persons: /realestates/persons/
+      realestates_categories: /realestates/categories/
+    term:
+      authors: /news/authors/:slug/
+      categories: /news/categories/:slug/
+      persons_expertises: /team/expertises/:slug/
+      persons_places: /team/offices/:slug/
+      persons_statutes: /team/statutes/:slug/
+      posts_expertises: /news/expertises/:slug/
+      tags: /news/tags/:slug/
+      publications_categories: /publications/categories/:slug/
+      publications_expertises: /publications/expertises/:slug/
+      publications_persons: /publications/persons/:slug/
+      realestates_persons: /realestates/persons/:slug/
+      realestates_categories: /realestates/categories/:slug/
+    

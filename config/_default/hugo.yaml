@@ -1,4 +1,7 @@
+## LANGUAGE
 defaultContentLanguage: fr
+
+## ADVANCED
 build:
   buildStats:
     disableClasses: false
@@ -12,5 +15,5 @@ markup:
   tableOfContents:
     ordered: true
 pagination:
-  pagerSize: 18
+  pagerSize: 9
 removePathAccents: true
