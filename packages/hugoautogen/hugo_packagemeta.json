@@ -1,0 +1,19 @@
+{
+  "sum": "dad4bda4a1c31631",
+  "dependencySources": {
+    "dependencies": {},
+    "devDependencies": {
+      "@hugolify/prettier-config": "github.com/uncinq/lawyerify-theme/v2",
+      "@uncinq/component-tokens": "github.com/uncinq/lawyerify-theme/v2",
+      "@uncinq/css-base": "github.com/hugolify/hugolify-theme-design-system",
+      "@uncinq/css-components": "github.com/hugolify/hugolify-theme-design-system",
+      "@uncinq/design-tokens": "github.com/uncinq/lawyerify-theme/v2",
+      "autoprefixer": "github.com/hugolify/hugolify-theme-design-system",
+      "postcss": "github.com/hugolify/hugolify-theme-design-system",
+      "postcss-cli": "github.com/hugolify/hugolify-theme-design-system",
+      "postcss-custom-media": "github.com/hugolify/hugolify-theme-design-system",
+      "postcss-import": "github.com/hugolify/hugolify-theme-design-system",
+      "style-dictionary": "github.com/uncinq/lawyerify-theme/v2"
+    }
+  }
+}

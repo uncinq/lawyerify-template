@@ -1,6 +1,6 @@
 fr:
-  languageCode: fr
-  languageName: Français
+  label: Français
+  locale: fr
   title: Lawyerify
   weight: 1
   permalinks:
@@ -45,8 +45,8 @@ fr:
     
 
 en:
-  languageCode: en
-  languageName: English
+  label: English
+  locale: en
   title: Lawyerify
   weight: 2
   permalinks:

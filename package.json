@@ -11,6 +11,7 @@
     "url": "https://www.lawyerify.io/"
   },
   "license": "MIT",
+  "private": true,
   "scripts": {
     "build": "hugo --noChmod --gc --minify",
     "build:config:cloudcannon": "node scripts/build-config-cloudcannon.js",
@@ -28,5 +29,8 @@
     "update": "hugo mod get -u",
     "update:all": "yarn update && yarn tidy && yarn upgrade",
     "watch": "hugo server"
-  }
+  },
+  "workspaces": [
+    "packages/hugoautogen"
+  ]
 }
